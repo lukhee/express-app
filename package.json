@@ -1,0 +1,15 @@
+{
+  "name": "star-war-movie-app",
+  "version": "1.0.0",
+  "description": "a basic movie app for star war  fans",
+  "main": " app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "balogun lukman",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
